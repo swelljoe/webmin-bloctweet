@@ -1,0 +1,20 @@
+index_title=Bloctweet Group Tweet Server
+
+index_contributors=Contributors
+
+index_keys=Authentication Keys
+index_keys_access_token=Access Token
+index_keys_access_token_secret=Access Token Secret
+index_keys_consumer_secret=Consumer Secret
+index_keys_consumer_key=Consumer Key
+
+index_settings=Settings
+index_settings_dm_enabled=Automatically check for new tweets via direct message?
+index_settings_dm_refresh_rate=How often to check for new tweets via direct message
+index_settings_hashtag_enabled=Query tweets based on hashtag?
+index_settings_search_hash=Hashtag to search for new tweets
+index_settings_account_name=Twitter account to send tweets to
+index_settings_refresh_rate=How often to check for new tweets based on hashtag
+index_settings_signing_enabled=Include original tweeter
+
+form_save=Save
