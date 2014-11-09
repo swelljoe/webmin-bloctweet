@@ -1,7 +1,7 @@
 webmin-bloctweet
 ================
 
-![Alt text](http://i.imgur.com/mZ58Env.png)
+![Bloctweet Webmin module screenshot](http://i.imgur.com/mZ58Env.png)
 
 Bloctweet Group Tweet Server configuration module. Bloctweet is a simple server, written by Corey Williams, to facilitate groups who wish to tweet on a single account. It can be used by companies, organizations, activists, and other groups to share a Twitter account without sharing the password amongst the users. It has no fixed limits on number of contributors.
 
